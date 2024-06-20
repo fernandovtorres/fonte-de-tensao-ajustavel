@@ -8,7 +8,7 @@
 |placeholder|placeholder|placeholder|
 | | **`TOTAL:`** | **`(preço total)`** |
 
-# informaçãoes sobre os componentes
+# Informações sobre os componentes
 - **transformador**: tem o papel de reduzir a voltagem de 127v vinda de uma fonte de corrente alternada (a tomada) para 24.2v, ainda alternada.
 - **ponte de diodo**: a ponte de diodo é um arranjo de 4 diodos dispostos de uma forma com que a corrente alternada se tranforme em contínua
 - **capacitor**: armazena carga no circuito durante os ciclos, liberando corrente quando a tensão provinda da fonte for menor do que a tensão interna do capacitor. Com base em um cálculo de 10% de ripple, chegamos próximos ao valor comercial de 820uF
