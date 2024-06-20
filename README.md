@@ -6,7 +6,7 @@
 | componente | quantidade | custo unitário |
 | :----: | :----: | :----: |
 |placeholder|placeholder|placeholder|
-| | **`TOTAL:`** | **`(preço total)`** |
+|----- | **`TOTAL: xx`** | **`Preço Total: R$ XXX.XX`** |
 
 # Informações sobre os componentes
 - **transformador**: tem o papel de reduzir a voltagem de 127v vinda de uma fonte de corrente alternada (a tomada) para 24.2v, ainda alternada.
