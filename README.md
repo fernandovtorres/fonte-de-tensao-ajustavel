@@ -3,7 +3,7 @@
 *Projeto para a disciplina Eletronica para Computação - SSC0180*
 
 # Tabela dos componentes
-| componente | quantidade | custo unitário |
+| componente | quantidade | custo por unidade |
 | :----: | :----: | :----: |
 |placeholder|placeholder|placeholder|
 |----- | **`TOTAL: xx`** | **`Preço Total: R$ XXX.XX`** |
