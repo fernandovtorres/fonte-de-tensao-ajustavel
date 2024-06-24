@@ -5,7 +5,8 @@
 # Tabela dos componentes
 | componente | quantidade | custo por unidade |
 | :----: | :----: | :----: |
-|placeholder|placeholder|placeholder|
+|Transformador 24.2V|1|*|
+|Diodos |placeholder|placeholder|
 |----- | **`TOTAL: xx`** | **`Preço Total: R$ XXX.XX`** |
 
 # Informações sobre os componentes
@@ -18,3 +19,15 @@
 - **resistores**: utilizado em diversoss momentos no circuito, possui a função de limitar a corrente, o que garante uma certa segurança para os outros componentes do circuito.
 - **led**: tem como função indicar quando a voltagem atingir 5 volts na parte final do circuito. de modo geral, não interfere nos valores obtidos no circuito, servindo unicamente como indicação da voltagem e corrente ajustáveis.
 
+# Imagem do Falstad
+
+![image](https://github.com/fernandovtorres/fonte-de-tensao-ajustavel/assets/54219097/9051bf3c-e2ee-463d-9ccd-e91253f6ddf1)
+
+
+# PCB no Eagle
+
+  
+# Esquemático no Eagle
+
+
+# Vídeo Explicativo
