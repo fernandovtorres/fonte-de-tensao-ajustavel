@@ -25,8 +25,9 @@ Neste trabalho, projetamos uma fonte de tensão regulável 3v a 12v. Para isso, 
 
 # Imagem do Falstad
 
-![image](https://github.com/fernandovtorres/fonte-de-tensao-ajustavel/assets/54219097/9051bf3c-e2ee-463d-9ccd-e91253f6ddf1)
+![Screenshot from 2024-06-29 16-26-51](https://github.com/fernandovtorres/fonte-de-tensao-ajustavel/assets/54219097/3d010d52-58a6-4602-856b-af1317ef7481)
 
+[Link para o falstad](https://tinyurl.com/2gezskvp)
 
 # PCB no Eagle
 
