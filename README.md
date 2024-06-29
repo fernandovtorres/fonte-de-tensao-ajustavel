@@ -37,4 +37,9 @@ Neste trabalho, projetamos uma fonte de tensão regulável 3v a 12v. Para isso, 
 
 ![schematic](https://github.com/fernandovtorres/fonte-de-tensao-ajustavel/assets/54219097/700c18d4-4089-4b3c-9f57-c2d5acd77638)
 
-# Vídeo Explicativo
+# Vídeos
+
+https://github.com/fernandovtorres/fonte-de-tensao-ajustavel/assets/54219097/06e4c6fe-193a-48ef-a1b3-73d7a6c7bd2a
+
+
+
