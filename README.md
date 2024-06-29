@@ -2,6 +2,10 @@
 
 *Projeto para a disciplina Eletronica para Computação - SSC0180*
 
+# Sobre o Projeto
+
+Neste trabalho, projetamos uma fonte de tensão regulável 3v a 12v. Para isso, utilizamos a voltagem alternada de 127v 60hz vinda da tomada e transformamos em volatagem contínua utilizando um tranformador e um circuito retificador feito com diodos.
+
 # Tabela dos componentes
 | componente | quantidade | custo por unidade |
 | :----: | :----: | :----: |
