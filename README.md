@@ -31,8 +31,10 @@ Neste trabalho, projetamos uma fonte de tensão regulável 3v a 12v. Para isso, 
 
 # PCB no Eagle
 
+![Board](https://github.com/fernandovtorres/fonte-de-tensao-ajustavel/assets/54219097/28a7da90-fae2-4f18-99cf-1c8df9814398)
   
 # Esquemático no Eagle
 
+![schematic](https://github.com/fernandovtorres/fonte-de-tensao-ajustavel/assets/54219097/700c18d4-4089-4b3c-9f57-c2d5acd77638)
 
 # Vídeo Explicativo
