@@ -9,7 +9,8 @@ Neste trabalho, projetamos uma fonte de tensão regulável 3v a 12v. Para isso, 
 # Tabela dos componentes
 | componente | quantidade | custo por unidade |
 | :----: | :----: | :----: |
-|Transformador 24.2V|1|*|
+|Transformador 24.2V|1|emprestado|
+||||
 |Diodos |placeholder|placeholder|
 |----- | **`TOTAL: xx`** | **`Preço Total: R$ XXX.XX`** |
 
