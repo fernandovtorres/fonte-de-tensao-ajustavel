@@ -2,6 +2,13 @@
 
 *Projeto para a disciplina Eletronica para Computação - SSC0180*
 
+# Integrantes do Grupo
+
+- Nicholas Eiti Dan - 14600749
+- João Gabriel Araújo de Bastos - 15462633
+- Matheus Vieira Fernandes - 14615993
+- Fernando Valentim Torres - 15452340
+
 # Sobre o Projeto
 
 Neste trabalho, projetamos uma fonte de tensão regulável 3v a 12v. Para isso, utilizamos a voltagem alternada de 127v 60hz vinda da tomada e transformamos em volatagem contínua utilizando um tranformador e um circuito retificador feito com diodos.
@@ -51,6 +58,7 @@ Neste trabalho, projetamos uma fonte de tensão regulável 3v a 12v. Para isso, 
 # Vídeos
 
 https://github.com/fernandovtorres/fonte-de-tensao-ajustavel/assets/54219097/06e4c6fe-193a-48ef-a1b3-73d7a6c7bd2a
+
 
 
 
