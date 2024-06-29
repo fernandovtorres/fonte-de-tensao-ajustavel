@@ -7,12 +7,22 @@
 Neste trabalho, projetamos uma fonte de tensão regulável 3v a 12v. Para isso, utilizamos a voltagem alternada de 127v 60hz vinda da tomada e transformamos em volatagem contínua utilizando um tranformador e um circuito retificador feito com diodos.
 
 # Tabela dos componentes
-| componente | quantidade | custo por unidade |
-| :----: | :----: | :----: |
-|Transformador 24.2V|1|emprestado|
-||||
-|Diodos |placeholder|placeholder|
-|----- | **`TOTAL: xx`** | **`Preço Total: R$ XXX.XX`** |
+| Componente               | Quantidade | Custo por unidade |
+|--------------------------|------------|-------|
+|Transformador 24.2v        |1          |emprestado|
+| Resistor 100 ohms, 2 watts|  2        |  1.70 |
+| Transistor NPN            | 4         |  1.55 |
+| Resistor 100 ohms, 0.25 watt | 5      |  0.08 |
+| Capacitor 840 µF         | 1          |  5.20 |
+| Diodos (ponte retificadora) | 4       |  0.20 |
+| Zener 13V                | 1          |  0.50 |
+| Zener 3.9V (queda de 2.4V) | 1        |  0.37 |
+| Potenciômetro 10 kOhms   | 1          |  7.00 |
+| LED vermelho             | 1          |  0.50 |
+| Protoboard 830 pontos    | 2          | 12.26 |
+| Jumpers                  | 27         |  0.70 |
+|Falta os outros resistores|||
+|----- | **`TOTAL: 50`** | **`Preço Total: R$ 30,06`** |
 
 # Informações sobre os componentes
 - **transformador**: tem o papel de reduzir a voltagem de 127v vinda de uma fonte de corrente alternada (a tomada) para 24.2v, ainda alternada.
