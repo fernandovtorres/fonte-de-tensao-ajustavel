@@ -88,6 +88,6 @@ $$ \ \frac{10^6}{120 \cdot 820 \cdot 230} \approx 4\\% \ $$
 
 https://github.com/fernandovtorres/fonte-de-tensao-ajustavel/assets/54219097/06e4c6fe-193a-48ef-a1b3-73d7a6c7bd2a
 
-
+[Video Explicativo](https://youtu.be/Dz2hcll39sc)
 
 
