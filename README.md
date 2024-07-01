@@ -41,6 +41,35 @@ Neste trabalho, projetamos uma fonte de tensão regulável 3v a 12v. Para isso, 
 - **resistores**: utilizado em diversoss momentos no circuito, possui a função de limitar a corrente, o que garante uma certa segurança para os outros componentes do circuito.
 - **led**: tem como função indicar quando a voltagem atingir 5 volts na parte final do circuito. de modo geral, não interfere nos valores obtidos no circuito, servindo unicamente como indicação da voltagem e corrente ajustáveis.
 
+# Cálculos
+
+### Antes do transformador:
+
+$$ \ V_{\text{tomada}} = 127\ V \quad \Rightarrow \quad V_{\text{pico da tomada}} = 127 \cdot \sqrt{2} \approx 179,6\ V \ $$
+
+### Após o transformador:
+
+$$ \ V_0\ \text{pico} \approx 179,6 \cdot 0,1533 \approx 26,1\ V \ $$
+
+### Depois da ponte retificadora:
+
+$$ \ V_1\ \text{pico} \approx 26,1 - 2,6 \approx 23,5\ V \ $$
+
+### Buscando a capacitância mínima para um ripple de no máximo 10%:
+
+$$ \ R_{\text{eq}} \approx 230Ω \ $$
+
+$$\ V_{\text{ripple}} = \frac{V_{\text{cc}}}{f \cdot C \cdot R_{\text{eq}}} \quad \Rightarrow \quad 2,35 \geq \frac{V_1\ \text{pico}}{120 \cdot C \cdot R_{\text{eq}}} \ $$
+
+$$ \ \quad 2,35 \geq \frac{23,5}{120 \cdot C \cdot 230} \ $$
+
+$$ \ C \geq \frac{23,5}{120 \cdot 2,35 \cdot 230} \approx 362\ \mu F \ $$
+
+### Com um capacitor de 820µF, é possível obter um ripple de:
+
+$$ \ \frac{10^6}{120 \cdot 820 \cdot 230} \approx 4\\% \ $$
+
+
 # Imagem do Falstad
 
 ![Screenshot from 2024-06-29 16-26-51](https://github.com/fernandovtorres/fonte-de-tensao-ajustavel/assets/54219097/3d010d52-58a6-4602-856b-af1317ef7481)
