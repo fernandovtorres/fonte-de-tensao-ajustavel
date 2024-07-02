@@ -19,7 +19,7 @@ Neste trabalho, projetamos uma fonte de tensão regulável 3v a 12v. Para isso, 
 |Transformador 24.2v        |1          |emprestado|
 | Resistor 100 ohms, 2 watts|  2        |  1.70 |
 | Transistor NPN            | 4         |  1.55 |
-| Resistor 100 ohms, 0.25 watt | 5      |  0.08 |
+| Resistor 100 ohms, 0.25 watt | 6      |  0.08 |
 | Capacitor 840 µF         | 1          |  5.20 |
 | Diodos (ponte retificadora) | 4       |  0.20 |
 | Zener 13V                | 1          |  0.50 |
@@ -28,8 +28,12 @@ Neste trabalho, projetamos uma fonte de tensão regulável 3v a 12v. Para isso, 
 | LED vermelho             | 1          |  0.50 |
 | Protoboard 830 pontos    | 2          | 12.26 |
 | Jumpers                  | 27         |  0.70 |
-|Falta os outros resistores|||
-|----- | **`TOTAL: 50`** | **`Preço Total: R$ 30,06`** |
+|Resistor 4.7k ohms        |2           |  0.58 |  
+|Resistor 2.2k ohms        |1           |  0.60 |
+|Resistor 3.3k ohms        |1           |  0.39 |
+|Resistor 1k ohms          |1           |  0.59 |
+|Resistor 10k ohms         |1           |  0.46 |
+|----- | **`TOTAL: 57`** | **`Preço Total: R$ 32,68`** |
 
 # Informações sobre os componentes
 - **transformador**: tem o papel de reduzir a voltagem de 127v vinda de uma fonte de corrente alternada (a tomada) para 24.2v, ainda alternada.
