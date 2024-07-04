@@ -90,7 +90,7 @@ $$ \ \frac{10^6}{120 \cdot 820 \cdot 230} \approx 4\\% \ $$
 
 # Foto do Projeto
 
-
+![photo_2024-07-04_10-12-46](https://github.com/fernandovtorres/fonte-de-tensao-ajustavel/assets/54219097/6255b14c-dd0c-4b5d-b93f-7856f6c92b86)
 
 # Vídeos
 
