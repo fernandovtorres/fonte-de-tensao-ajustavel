@@ -11,7 +11,7 @@
 
 # Sobre o Projeto
 
-Neste trabalho, projetamos uma fonte de tensão regulável 3v a 12v. Para isso, utilizamos a voltagem alternada de 127v 60hz vinda da tomada e transformamos em volatagem contínua utilizando um tranformador e um circuito retificador feito com diodos.
+Neste trabalho, projetamos uma fonte de tensão regulável 3v a 12v. Para isso, utilizamos a voltagem alternada de 127v 60hz vinda da tomada e transformamos em voltagem contínua utilizando um transformador e um circuito retificador feito com diodos.
 
 # Tabela dos componentes
 | Componente               | Quantidade | Custo por unidade |
